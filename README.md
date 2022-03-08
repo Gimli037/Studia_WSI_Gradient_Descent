@@ -1,0 +1,2 @@
+# Studia_WSI_Gradient_Descent
+Implementacja metody najszybszego spadku
